@@ -1,0 +1,1 @@
+# Este archivo permite tratar el directorio app como un paquete Python
